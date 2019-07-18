@@ -1,0 +1,4 @@
+Latitude vs. Temp - The cities between 20 - 40 degree's latitude have the highest tempuratures
+Latitude vs. Humidity - There is a slight clustering of cities at higher latitudes, indicating the higher the latitude the more humid the city will be
+Latitude vs. Cloudiness - Cities above the equator tend to be more cloudy
+Latitude vs. Wind Speed - There is a slight clustering of cities at higher latitudes, indicating the higher the latitude the more windy the city will be
